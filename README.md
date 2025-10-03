@@ -23,7 +23,7 @@ I made a Logistic Regression model to predict whether a tumor is benign or malig
 
 ## Setup
 
-1.Clone the repo: git clone https://github.com/zainshah871/ML-Classification-TumorPrediction-Project4.git
+1.Clone the repo: git clone https://github.com/zainshah740/ML-Classification-TumorPrediction-Project4.git
 2.Install dependencies: pip install -r requirements.txt
 3.Open tumor_prediction.ipynb in Jupyter to run and explore the model.
 
